@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829052822160",
+    "firebase_url": "https://news101-dee76.firebaseio.com",
+    "project_id": "news101-dee76",
+    "storage_bucket": "news101-dee76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829052822160:android:36f33528961e4fbdb4ee15",
+        "android_client_info": {
+          "package_name": "com.example.news101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829052822160-dofofbpbf4vt6ivht3dg6qks4bbd9mrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkH3msM3FNJY2dbQqRJsHOhf4ZOZJ34A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829052822160-dofofbpbf4vt6ivht3dg6qks4bbd9mrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

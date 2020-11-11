@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News101</string>
+    <string name="username">UserName</string>
+    <string name="password1">password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="register_here1">register_here</string>
+    <string name="button1">button</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="register_here">register_here</string>
+    <string name="button">button</string>
+</resources>
